@@ -34,13 +34,13 @@ const MainHeader = styled.div`
   align-items: center;
   position: relative;
   height: 70px;
-  min-width: 1024px;
+  min-width: 1150px;
 `;
 
 const Nav = styled.nav`
   display: flex;
   justify-content: space-evenly;
-  gap: 32px;
+  gap: 48px;
 `;
 
 const NavLink = styled.a`
